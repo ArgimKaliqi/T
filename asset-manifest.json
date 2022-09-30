@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/KaliqiIT/static/css/main.d7da34c1.css",
+    "main.js": "/KaliqiIT/static/js/main.17a29a96.js",
+    "static/media/video.mp4": "/KaliqiIT/static/media/video.d48e218167a19525e9ae.mp4",
+    "static/media/svg-2.svg": "/KaliqiIT/static/media/svg-2.3819dac83629588499f126bd999aaed0.svg",
+    "static/media/svg-3.svg": "/KaliqiIT/static/media/svg-3.be690e33a379b206ee9c2f306eb016b9.svg",
+    "static/media/svg-1.svg": "/KaliqiIT/static/media/svg-1.7cc2e57fee0e5a1f90b6c9495e301d8a.svg",
+    "static/media/svg-4.svg": "/KaliqiIT/static/media/svg-4.c7285bae9b1ef2470931f7014e37cba7.svg",
+    "index.html": "/KaliqiIT/index.html",
+    "main.d7da34c1.css.map": "/KaliqiIT/static/css/main.d7da34c1.css.map",
+    "main.17a29a96.js.map": "/KaliqiIT/static/js/main.17a29a96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.17a29a96.js"
+  ]
+}
