@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/de5cc0cd-20de-42f1-9b0a-dd23935751e0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/KaliqiIT",
+    "appService.deploySubpath": "."
+}

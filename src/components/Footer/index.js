@@ -62,9 +62,9 @@ const Footer = () => {
         <SocialMedia>
             <SocialMediaWrap>
                 <SocialLogo to='/' onClick={toggleHome}>
-                    KALIQI IT 
+                    KALIKJI IT SOLUTIONS
                 </SocialLogo>
-                <WebsiteRights>KALIQI IT - SOLUTIONS  © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+                <WebsiteRights>KALIKJI IT - SOLUTIONS  © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
                 <SocialIcons>
                     <SocialIconLink href="https://www.facebook.com/" target="_blank" aria-label="Facebook">
                         <FaFacebook/>

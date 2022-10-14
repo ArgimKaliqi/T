@@ -30,7 +30,7 @@ const Navbar = ({toggle}) => {
     <Nav scrollNav={scrollNav}>
         <NavbarContainer>
             <NavLogo to='/' onClick={toggleHome}>
-                Kaliqi-IT
+                KALIKJI-IT <br></br>SOLUTIONS
             </NavLogo>
             <MobileIcon onClick={toggle}>
                 <FaBars/>

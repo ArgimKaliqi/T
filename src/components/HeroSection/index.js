@@ -20,7 +20,7 @@ const HeroSection = () => {
           IT-Betrieb als entscheidender Faktor für den Unternehmenserfolg.
         </HeroH1>
         <HeroP>
-          KALIQI it-solutions ist seit mehr als 20 Jahren kompetenter und
+          KALIKJI IT-SOLUTIONS ist seit mehr als 20 Jahren kompetenter und
           zuverlässiger IT-Dienstleister.
         </HeroP>
         <HeroBtnWrapper>
